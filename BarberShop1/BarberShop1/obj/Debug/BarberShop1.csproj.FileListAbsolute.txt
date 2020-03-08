@@ -1,0 +1,2 @@
+C:\Users\OOP11\source\repos\BarberShop1\BarberShop1\obj\Debug\BarberShop1.csprojAssemblyReference.cache
+C:\Users\OOP11\source\repos\BarberShop1\BarberShop1\obj\Debug\BarberShop1.csproj.CoreCompileInputs.cache

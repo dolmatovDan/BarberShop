@@ -18,7 +18,7 @@ namespace BarberShop1
         Customer(string name, string Last_name)
         {
             id = cur_max_id;
-
+            cur_max_id++;
             this.name = name;
             this.Last_name = Last_name; //что бы не было одинаковых имён указываем this, или меняем переменную параметра конструктора. 
         } 
@@ -29,6 +29,18 @@ namespace BarberShop1
             Console.WriteLine("Клент № " + id + ":");
             Console.WriteLine(name + " " + Last_name);
             Console.WriteLine("____________");
+        }
+
+        public bool is_compare(Customer customer)
+        {
+            if (id == customer.id && name == customer.name && Last_name == customer.Last_name)
+            {
+                return true;
+            }
+            else //можно просто return false
+            {
+                return false;
+            }
         }
     }
 }
