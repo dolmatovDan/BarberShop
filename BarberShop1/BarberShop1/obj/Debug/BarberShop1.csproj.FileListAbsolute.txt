@@ -1,2 +1,8 @@
 C:\Users\OOP11\source\repos\BarberShop1\BarberShop1\obj\Debug\BarberShop1.csprojAssemblyReference.cache
 C:\Users\OOP11\source\repos\BarberShop1\BarberShop1\obj\Debug\BarberShop1.csproj.CoreCompileInputs.cache
+C:\Users\robot\Desktop\РАб стол\Програмирование\C#\Основы ООП\BarberShop\BarberShop1\BarberShop1\bin\Debug\BarberShop1.exe.config
+C:\Users\robot\Desktop\РАб стол\Програмирование\C#\Основы ООП\BarberShop\BarberShop1\BarberShop1\bin\Debug\BarberShop1.exe
+C:\Users\robot\Desktop\РАб стол\Програмирование\C#\Основы ООП\BarberShop\BarberShop1\BarberShop1\bin\Debug\BarberShop1.pdb
+C:\Users\robot\Desktop\РАб стол\Програмирование\C#\Основы ООП\BarberShop\BarberShop1\BarberShop1\obj\Debug\BarberShop1.csprojAssemblyReference.cache
+C:\Users\robot\Desktop\РАб стол\Програмирование\C#\Основы ООП\BarberShop\BarberShop1\BarberShop1\obj\Debug\BarberShop1.exe
+C:\Users\robot\Desktop\РАб стол\Програмирование\C#\Основы ООП\BarberShop\BarberShop1\BarberShop1\obj\Debug\BarberShop1.pdb

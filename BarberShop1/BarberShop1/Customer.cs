@@ -15,7 +15,7 @@ namespace BarberShop1
         public string name;
         public string Last_name;
 
-        Customer(string name, string Last_name)
+        public Customer(string name, string Last_name)
         {
             id = cur_max_id;
             cur_max_id++;
